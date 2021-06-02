@@ -15,7 +15,10 @@ chrome-profiler-events*.json
 
 # IDEs and editors
 /.idea
+<<<<<<< HEAD
 .github/
+=======
+>>>>>>> parent of 5340ee8... push
 .project
 .classpath
 .c9/
